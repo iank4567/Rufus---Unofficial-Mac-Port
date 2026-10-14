@@ -7,4 +7,5 @@ Many features are NOT OBTAINABLE YET, such as Windows to Go!
 
 If you are downloading the Intel version because you want Windows to Go (or any other features not in my version), I strongly recommend Boot Camp, then downloading official Rufus software. Windows to Go will not be added until at least November.
 
-Visit my website at https://circuitcraft.org, where both versions are available if Github is having issues.
+Visit my website at https://circuitcraft.org, for beta releases in the future.
+As this is a beta release, there are currently no beta releases. Once the first stable version arrives, (v1.0) betas will begin coming out.
