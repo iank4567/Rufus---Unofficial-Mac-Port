@@ -1,7 +1,7 @@
 # Rufus---Unofficial-Mac-Port
-Simple port of Rufus to Mac. As I'm not good with JSON code, some sections of this were vibe coded. However, overall design code was mostly my code.
+Simple port of Rufus to Mac. As I'm not good with JSON code, some sections of this were vibe coded. However, overall design code and disk writing/erasing was mostly my code.
 
-⚠️ Disclaimer: This is an independent, community-maintained project. It is not affiliated with, authorized, maintained, or endorsed by Pete Batard or the official Rufus development team. For the official Windows utility, visit rufus.ie.
+⚠️ Disclaimer: This is an independent project, maintained entirely by me. I created this to challenge myself to go as far as I could. It is not affiliated with, authorized, maintained, or endorsed by Pete Batard or the official Rufus development team. For the official Windows utility, visit rufus.ie.
 
 Many features are NOT OBTAINABLE YET, such as Windows to Go!
 
