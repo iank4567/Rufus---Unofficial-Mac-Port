@@ -5,4 +5,6 @@ Simple port of Rufus to Mac. As I'm not good with JSON code, some sections of th
 
 Many features are NOT OBTAINABLE YET, such as Windows to Go!
 
-If you are downloading the Intel version because you want Windows to Go, I strongly recommend Boot Camp, then downloading official Rufus software. Windows to Go will not be added until at least November.
+If you are downloading the Intel version because you want Windows to Go (or any other features not in my version), I strongly recommend Boot Camp, then downloading official Rufus software. Windows to Go will not be added until at least November.
+
+Visit my website at https://circuitcraft.org, where both versions are available if Github is having issues.
